@@ -1,0 +1,18 @@
+#This is a code of Meryem Jemaa. 
+
+
+#we will start with creating tables in mysql and then load our csv files. 
+
+#We create first table
+
+Create table job_data (
+Job_ID Int,
+text varchar(500),
+PRIMARY KEY (Job_ID)
+); 
+
+
+#We create the second Table 
+
+
+
