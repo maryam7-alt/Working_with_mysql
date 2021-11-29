@@ -3,6 +3,13 @@
 
 #we will start with creating tables in mysql and then load our csv files. 
 
+#data cleaning with Excel.
+
+The dataset was messy and I had to do some transformation to make it align the properties of the table already created in Mysql.
+
+
+
+--------------------------
 #We create first table
 
 Create table job_data (
@@ -12,7 +19,9 @@ PRIMARY KEY (Job_ID)
 ); 
 
 
-#We create the second Table 
+#We create the second Table  
+
+
 
 
 
